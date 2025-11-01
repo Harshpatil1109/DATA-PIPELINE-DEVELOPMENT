@@ -26,3 +26,8 @@ The objectives of this project are to build a scalable and automated data pipeli
 The tools and technologies used in this project include Python as the core programming language due to its versatility and extensive library support. Pandas was used for data manipulation and analysis, while Scikit-learn provided a range of preprocessing techniques for preparing data for machine learning models. The development process emphasized code modularity, clarity, and efficiency, ensuring that the pipeline can be easily maintained and extended for future use.
 
 In conclusion, this Data Pipeline Development project successfully automates the ETL process, transforming raw, unorganized data into a clean and structured format suitable for analytics and machine learning tasks. It demonstrates practical skills in data engineering and automation, which are fundamental for any aspiring data analyst or data scientist. The project not only strengthens technical knowledge but also highlights the significance of efficient data processing in achieving accurate and actionable insights from data.
+
+OUTPUT SCREEN SHOT:
+
+<img width="1254" height="646" alt="Image" src="https://github.com/user-attachments/assets/b2757f80-8116-487b-a807-13759eefa932" />
+
