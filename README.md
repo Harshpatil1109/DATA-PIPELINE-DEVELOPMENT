@@ -27,7 +27,7 @@ The tools and technologies used in this project include Python as the core progr
 
 In conclusion, this Data Pipeline Development project successfully automates the ETL process, transforming raw, unorganized data into a clean and structured format suitable for analytics and machine learning tasks. It demonstrates practical skills in data engineering and automation, which are fundamental for any aspiring data analyst or data scientist. The project not only strengthens technical knowledge but also highlights the significance of efficient data processing in achieving accurate and actionable insights from data.
 
-OUTPUT SCREEN SHOT:
+OUTPUT:
 
 <img width="1254" height="646" alt="Image" src="https://github.com/user-attachments/assets/b2757f80-8116-487b-a807-13759eefa932" />
 
